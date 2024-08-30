@@ -1,0 +1,15 @@
+This project is full of cleaning the raw dataset that I got in kaggle.
+For futher process in analytics we need to clean the data.
+Here I used MYSQL for the cleaning of raw data.
+I created staging data table for the data manipulation.
+There are 4 steps for cleaning the data
+1.Removing duplicates (never ever touch the raw data, must be created the staging table for the manipulation purpose)
+2.Standardiziing the data 
+3.Null and blank [ populate the null and blank areas using the other datas that we already have else we need to delete the null and blank spaces ]
+4. Removing unnecessary columns 
+
+These are the 4 steps I had used in this project 
+
+By using this final dataset It will be easier for the analysis purpose and explore the data.
+
+
